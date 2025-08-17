@@ -8,5 +8,5 @@ make
 ```
 finalmente para ejecutarlo deben ingresar
 ```
-./bin/nombre_programa
+./nombre_programa
 ```
