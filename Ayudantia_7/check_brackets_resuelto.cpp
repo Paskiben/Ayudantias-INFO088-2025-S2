@@ -1,4 +1,4 @@
-#include "pila/Pila.h"
+#include "stack/Pila.h"
 
 bool esCorrecto(std::string &palabra);
 void llenarPila(Pila &miPila, const std::string &palabra);

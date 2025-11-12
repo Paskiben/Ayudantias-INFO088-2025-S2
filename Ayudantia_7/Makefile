@@ -23,7 +23,7 @@ all: $(PILA) $(EXECUTABLES)
 %: %.cpp $(PILA)
 	$(CXX) $(CXXFLAGS) $? -o $@
 
-pila/Pila.o: pila/Pila.cpp
+stack/Pila.o: stack/Pila.cpp
 	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 # Limpiar los binarios generados

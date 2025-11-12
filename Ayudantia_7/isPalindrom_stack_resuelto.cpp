@@ -1,4 +1,4 @@
-#include "pila/Pila.h"
+#include "stack/Pila.h"
 
 bool esPalindrome(const std::string &palabra);
 
